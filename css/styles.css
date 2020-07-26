@@ -1,0 +1,23 @@
+body {
+background-color: #e1ffc2;
+}
+hr {
+border-style: none;
+border-top: dotted;
+width: 20%;
+border-width: 5px;
+
+color: #535204;
+}
+
+h1 {
+color: #535204;
+
+}
+
+h2,h3,h4 {
+  color: #535204;
+  font-weight: bold;
+text-decoration: underline;
+
+}
